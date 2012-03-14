@@ -1,8 +1,4 @@
 <?php 
-if($_GET['p'] > 2) {
-	
-	sleep(10);
-}
 $result = array();
 $result['success'] = true;
 $result['message'] = "";
